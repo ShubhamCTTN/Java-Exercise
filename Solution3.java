@@ -1,4 +1,4 @@
-/*Q3) Write a java program to show following menu to the user:
+/*Q3) Write a java program to show following menu to the user: 
 
 *******Menu*******
 1. Calculate Area of Circle
@@ -44,4 +44,3 @@ public class Solution3 {
         }
    }
 }
-
