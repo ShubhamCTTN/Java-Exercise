@@ -29,12 +29,14 @@ public class Solution3 {
             case 1: {
                 System.out.print("Enter the Radius :");
                 r= sc.nextDouble();
-                System.out.println("Area of Circle" +(pai));
+                System.out.println("Area of Circle" +(pai*r*r));
+                break;
             }
             case 2:{
                 System.out.print("Enter the Radius :");
                 r= sc.nextDouble();
-                System.out.println("Circumference of Circle" +(2*pai));
+                System.out.println("Circumference of Circle" +(2*pai*r));
+                break;
 
             }
             case 3:{
@@ -44,3 +46,5 @@ public class Solution3 {
         }
    }
 }
+
+
