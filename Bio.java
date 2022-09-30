@@ -1,3 +1,5 @@
+//Q1) Write a class with FirstName, LastName & age field. Print Firstname, LastName & age using static block, static method & static variable respectively.
+
 package exercise;
 public class Bio {
 
@@ -29,4 +31,5 @@ public class Bio {
 	bio();
 	}
 }
+
 
