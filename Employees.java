@@ -63,7 +63,7 @@ public class Employees {
 
     public static void main(String[] args) 
     {
-        Employees Emp = new Employees("Jay", "Yadav", "22", "Quality Engineer");
+        Employees Emp = new Employees("Mike", "tyson", "74", "Quality Engineer");
         String firstname = Emp.get_firstname();
         String lastname = Emp.get_lastname();
         String age = Emp.getAge();
@@ -74,4 +74,5 @@ public class Employees {
         System.out.println("Employee's Designation: " + designation);
     }
 }
+
 
