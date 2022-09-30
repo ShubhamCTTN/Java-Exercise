@@ -1,4 +1,4 @@
-/*Q5) Create a class named Employee with fields firstname,lastname,age and designation. 
+/*Q5) Create a class named Employee with fields firstname,lastname,age and designation.   
 The class should:
 
 have all types of constructors to initialize the object
@@ -63,7 +63,7 @@ public class Employees {
 
     public static void main(String[] args) 
     {
-        Employees Emp = new Employees("Ram", "Kishan", "16", "Quality Engineer");
+        Employees Emp = new Employees("Jay", "Yadav", "22", "Quality Engineer");
         String firstname = Emp.get_firstname();
         String lastname = Emp.get_lastname();
         String age = Emp.getAge();
